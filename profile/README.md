@@ -45,7 +45,7 @@ Connect QuotaPath with HubSpot CRM to automate commission tracking, visualize ea
 ### 🖼 Preview
 
 QuotaPath earnings dashboard synced with HubSpot deal stages  
-![Screenshot](https://www.quotapath.com/wp-content/uploads/hubspot-cards_1200x628-1024x536.png)  
+![Screenshot](https://gdm-catalog-fmapi-prod.imgix.net/ProductScreenshot/583594c4-4e9b-47ff-b950-35be77f86ce3.png)  
 *Track. Motivate. Reward.*
 
 ---
